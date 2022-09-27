@@ -5,9 +5,7 @@ bio: I am a physics PhD student working on particle experiment planning to
   graduate on May 2024. I am interested in computer graphics or deep learning
   and looking for an internship in 2023.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computergraphics
 social:
   - icon: envelope
     icon_pack: fas

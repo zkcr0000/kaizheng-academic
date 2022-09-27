@@ -1,10 +1,21 @@
 ---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-widget_id: recent-posts
-headless: true
-weight: 20
-title: About Me
+
+# Activate this widget? true/false
 active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title: Biography
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-My name is Kai Zheng, and I'm a phisicst PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.

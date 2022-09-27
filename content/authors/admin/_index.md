@@ -5,9 +5,9 @@ bio: I am a physics PhD student working on particle experiment planning to
   graduate on May 2024. I am interested in computer graphics or deep learning
   and looking for an internship in 2023.
 interests:
-  - Computer Graphics Researcher(Rendering, Physics simulation)
-  - Game developer
-  - Deep learning(3D reconstruction, Neural Rendering, or any other Graphics related fields)
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,8 +37,8 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-My name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.
+M﻿y name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.
 
-I have solid background in physics and mathematics. I have also fulfilled the course requirements for a master degree in Statistics. I have taken various CS courses including data structure, computer vision, parallel programming, computer graphics, etc.
+I﻿ have solid background in physics and mathematics. I have also fulfilled the course requirements for a master degree in Statistics. I have taken various CS courses including data structure, computer vision, parallel programming, computer graphics, etc.
 
-I am very interested in computer graphics. I have taken various courses on Rendering, Interactive graphics, Computational geometry, Physics-based animation, Game development, etc.
+I﻿ am very interested in computer graphics. I have taken various courses on Rendering, Interactive graphics, Computational geometry, Physics-based animation, Game development, etc.

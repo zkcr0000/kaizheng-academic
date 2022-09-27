@@ -38,7 +38,7 @@ user_groups: []
 highlight_name: true
 ---
 
-My name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.
+My name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++. I have done an internship last summer in TikTok AI lab working as Deep learning researcher on Quantum Chemistry. 
 
 I have solid background in physics and mathematics. I have also fulfilled the course requirements for a master degree in Statistics. I have taken various CS courses including data structure, computer vision, parallel programming, computer graphics, etc.
 

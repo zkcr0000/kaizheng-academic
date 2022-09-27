@@ -29,17 +29,18 @@ organizations:
     url: https://physics.illinois.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Phyics
+      institution: University of Illinois Urbana-Champaign
+      year: ""
+    - course: MS in Statistics
+      institution: University of Illinois Urbana-Champaign
+      year: ""
+    - course: BS in Physics
+      institution: Zhejiang University
+      year: ""
+email: zhengkcr@gmail.com
 superuser: true
+user_groups: []
 highlight_name: true
 ---
 M﻿y name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.

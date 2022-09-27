@@ -1,28 +1,32 @@
 ---
-# Display name
 title: Kai Zheng
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: PhD Candidate of Physics
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Department of Physics, University of Illinois Urbana-Champaign
-    url: https://physics.illinois.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+bio: I am a physics PhD student working on particle experiment planning to
+  graduate on May 2024. I am interested in computer graphics or deep learning
+  and looking for an internship in 2023.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Department of Physics, University of Illinois Urbana-Champaign
+    url: https://physics.illinois.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -34,44 +38,12 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+email: ""
+superuser: true
 highlight_name: true
 ---
+M﻿y name is Kai Zheng, and I'm a phisics PhD student working on particle experiment at University of Illinois Urbana-Champaign. I am working for the ATLAS collaboration of [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at Switzerland, CERN. My research focus on analysing data for new physics, applying machine learning/deep learning in particle experiment and developing software using c++.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I﻿ have solid background in physics and mathematics. I have also fulfilled the course requirements for a master degree in Statistics. I have taken various CS courses including data structure, computer vision, parallel programming, computer graphics, etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I﻿ am very interested in computer graphics. I have taken various courses on Rendering, Interactive graphics, Computational geometry, Physics-based animation, Game development, etc.

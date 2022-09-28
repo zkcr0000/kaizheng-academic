@@ -9,9 +9,6 @@ interests:
   - Game developer
   - Deep learning (3D reconstruction, Neural Rendering)
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: zhengkcr@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/zkcr0000

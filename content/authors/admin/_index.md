@@ -5,9 +5,9 @@ bio: I am a physics PhD student working on particle experiment planning to
   graduate on May 2024. I am interested in computer graphics or deep learning
   and looking for an internship in 2023.
 interests:
-  - Computer Graphics Researcher(Rendering, Physics simulation)
+  - Computer Graphics Researcher    (Rendering, Physics simulation)
   - Game developer
-  - Deep learning(3D reconstruction, Neural Rendering)
+  - Deep learning (3D reconstruction, Neural Rendering)
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,13 +25,13 @@ education:
   courses:
     - course: PhD in Phyics
       institution: University of Illinois Urbana-Champaign
-      year: ""
+      year: "2018-2024"
     - course: MS in Statistics
       institution: University of Illinois Urbana-Champaign
-      year: ""
+      year: "2020-2022"
     - course: BS in Physics
       institution: Zhejiang University
-      year: ""
+      year: "2014-2018"
 email: zhengkcr@gmail.com
 superuser: true
 user_groups: []
